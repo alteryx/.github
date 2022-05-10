@@ -8,7 +8,7 @@
 
 We create next generation technologies, tools, and products to unleash the full potential of machine learning. Our mission is to turbo-charge machine learning and data science efforts by creating open source projects that form the foundation of ML capability within the [Alteryx Platform](https://www.alteryx.com).
 
-### Libaries
+### Libraries
 
 We currently have four Python libraries available for machine learning aficionados to use. 
 

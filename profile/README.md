@@ -20,10 +20,11 @@ We currently have four Python libraries available for machine learning aficionad
 ### Blog Posts
 
 The Alteryx Open Source team also shares strategies for making the most of these libraries and insights they’ve learned along the way on the [Innovation Labs blog](https://innovation.alteryx.com/). Some recent posts include: 
+- [Type Inference for Natural Language](https://innovation.alteryx.com/type-inference-for-natural-language/)
 - [Introducing Woodwork - An Open Source Python Library for Rich Semantic Data Typing](https://innovation.alteryx.com/introducing-woodwork-an-open-source-python-library-for-rich-semantic-data-typing/)
 - [Detecting and Correcting Irregularly Spaced Time Series Data With EvalML](https://innovation.alteryx.com/detecting-and-correcting-irregularly-spaced-time-series-data-with-evalml/)
 - [Advancing Model Understanding: Human-Readable Pipeline Explanations](https://innovation.alteryx.com/advancing-model-understanding-human-readable-pipeline-explanations/)
 
 ### Want to keep up with all the great open-source work at Alteryx?
 
-Be sure to follow [@AlteryxOSS](https://twitter.com/AlteryxOSS) on Twitter. And if you’d like to work on awesome tools like these every day, check out our [careers site](https://www.alteryx.com/about-us/careers) and get in touch.
+Be sure to follow [@AlteryxOSS](https://twitter.com/AlteryxOSS) on Twitter, and [subscribe](https://www.alteryx.com/open-source) to our open source newsletter. And if you’d like to work on awesome tools like these every day, check out our [careers site](https://www.alteryx.com/about-us/careers) and get in touch.
